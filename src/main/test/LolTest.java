@@ -6,6 +6,6 @@ public class LolTest {
 
     @Test
     public void aTest() {
-        assertEquals("test", "test", "");
+        assertEquals("test", "testje");
     }
 }
