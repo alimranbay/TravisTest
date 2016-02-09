@@ -4,8 +4,8 @@ import static org.junit.Assert.assertEquals;
 
 public class LolTest {
 
-//    @Test
-//    public void aTest() {
-//        assertEquals("test", "test", "");
-//    }
+    @Test
+    public void aTest() {
+        assertEquals("test", "test", "");
+    }
 }
